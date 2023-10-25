@@ -1,0 +1,42 @@
+# Copyright (C) 2020  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and any partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details, at
+# https://fpgasoftware.intel.com/eula.
+
+# Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+# File: D:\projects1\regnbit.csv
+# Generated on: Wed Oct 25 13:06:24 2023
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Strict Preservation
+clk,Input,PIN_B8,7,B7_N0,3.3 V Schmitt Trigger,,,,,
+din[7],Input,PIN_A14,7,B7_N0,3.3-V LVTTL,,,,,
+din[6],Input,PIN_A13,7,B7_N0,3.3-V LVTTL,,,,,
+din[5],Input,PIN_B12,7,B7_N0,3.3-V LVTTL,,,,,
+din[4],Input,PIN_A12,7,B7_N0,3.3-V LVTTL,,,,,
+din[3],Input,PIN_C12,7,B7_N0,3.3-V LVTTL,,,,,
+din[2],Input,PIN_D12,7,B7_N0,3.3-V LVTTL,,,,,
+din[1],Input,PIN_C11,7,B7_N0,3.3-V LVTTL,,,,,
+din[0],Input,PIN_C10,7,B7_N0,3.3-V LVTTL,,,,,
+dout[7],Output,PIN_D14,7,B7_N0,3.3-V LVTTL,,,,,
+dout[6],Output,PIN_E14,7,B7_N0,3.3-V LVTTL,,,,,
+dout[5],Output,PIN_C13,7,B7_N0,3.3-V LVTTL,,,,,
+dout[4],Output,PIN_D13,7,B7_N0,3.3-V LVTTL,,,,,
+dout[3],Output,PIN_B10,7,B7_N0,3.3-V LVTTL,,,,,
+dout[2],Output,PIN_A10,7,B7_N0,3.3-V LVTTL,,,,,
+dout[1],Output,PIN_A9,7,B7_N0,3.3-V LVTTL,,,,,
+dout[0],Output,PIN_A8,7,B7_N0,3.3-V LVTTL,,,,,
+inc,Input,PIN_F15,7,B7_N0,3.3-V LVTTL,,,,,
+ld,Input,PIN_B14,7,B7_N0,3.3-V LVTTL,,,,,
+rst,Input,PIN_A7,7,B7_N0,3.3 V Schmitt Trigger,,,,,
